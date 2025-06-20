@@ -1,6 +1,6 @@
 package Week1.DataStructures_and_Algorithms.Exercise2;
 
-public class SearchApp {
+class SearchApp {
     public static void main(String[] args) {
         Product[] products = {
             new Product(1, "Laptop", "Electronics"),
