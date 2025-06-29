@@ -1,5 +1,4 @@
-###Tharun J(6389930) HandOns Practices
-## Weekly Hands-On & Coding Exercises
+## Tharun J(6389930) Weekly Hands-On & Coding Exercises
 
 Welcome to the **Weekly Hands-On & Coding Exercises** repository! 
 This space is dedicated to improving programming skills, mastering new concepts, and reinforcing technical knowledge through consistent weekly practice.
